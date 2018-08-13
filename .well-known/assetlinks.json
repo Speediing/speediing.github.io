@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vivametrica.vivametrica",
+    "sha256_cert_fingerprints":
+    ["61:BF:12:3F:71:94:3D:96:9E:5D:78:3C:65:20:17:14:00:E0:4D:A8:4C:69:8D:70:2D:D1:88:E6:B6:EA:2A:FF"]
+  }
+}]
